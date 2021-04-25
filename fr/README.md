@@ -1,28 +1,34 @@
 ---
-description: >-
-  Apprenez comment créer, tester et publier une application mobile construite
-  avec web6.builders.
+description: WEB6 propose une série de générateurs en self service.
 ---
 
-# Français
+# \[ FR \] Générateurs WEB6
 
-## Comment créer une application mobile
+## Applications
 
-1. [Création dans le constructeur](creer-application/creation-dans-le-constructeur.md)
-2. [Personnalisation du design](creer-application/personnalisation-du-design.md)
-3. [Réglages de l'application](creer-application/reglages-de-lapplication.md)
-4. [Gestion de l'application](creer-application/gestion-de-lapplication.md)
-5. [Contenu des différentes sections](creer-application/contenu-des-differentes-sections.md)
-6. [Application Shopify](creer-application/application-shopify.md)
-7. [Application Radio](creer-application/application-radio.md)
+### Comment créer une application mobile
 
-## Tester votre application
+1. [Création dans le constructeur](apps/creer-application/creation-dans-le-constructeur.md)
+2. [Personnalisation du design](apps/creer-application/personnalisation-du-design.md)
+3. [Réglages de l'application](apps/creer-application/reglages-de-lapplication.md)
+4. [Gestion de l'application](apps/creer-application/gestion-de-lapplication.md)
+5. [Contenu des différentes sections](apps/creer-application/contenu-des-differentes-sections.md)
+6. [Application Shopify](apps/creer-application/application-shopify.md)
+7. [Application Radio](apps/creer-application/application-radio.md)
 
-1. Prévisualiser l'application
+### Tester votre application
 
-## Publication et mise à jour
+1. [Prévisualiser l'application](apps/tester-votre-application/previsualiser-lapplication.md)
 
-1. Compiler l'application
-2. Publier une application iOS
-3. Mise à jour de l'application
+### Publication et mise à jour
+
+1. [Compiler l'application](apps/publication-et-mise-a-jour/compiler-lapplication.md)
+2. [Publier une application iOS](apps/publication-et-mise-a-jour/publier-une-application-ios.md)
+3. [Mise à jour de l'application](apps/publication-et-mise-a-jour/mise-a-jour-de-lapplication.md)
+
+### Développements sur-mesure
+
+## Sites Internet
+
+
 
